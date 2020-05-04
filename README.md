@@ -1,4 +1,4 @@
-# Team Project: Numerics in Open Source Software
+# Team Project:  PolynomialFeature of Scikit-learn
 
 You've found some interesting methods and software during the individual
 projects, and still have some open questions.  Now you'll decide as a team what
